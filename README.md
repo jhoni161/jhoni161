@@ -135,7 +135,7 @@ Soy un seguidor entusiasta de **[Anthropic](https://www.anthropic.com)** y su ap
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jhoni161&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="jhoni161's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=jhoni161&theme=dark&hide_border=true" alt="jhoni161's GitHub Stats" />
 <!--
 **jhoni161/jhoni161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
