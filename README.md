@@ -114,8 +114,8 @@ Soy un seguidor entusiasta de **[Anthropic](https://www.anthropic.com)** y su ap
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jhoni161&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoni161&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
